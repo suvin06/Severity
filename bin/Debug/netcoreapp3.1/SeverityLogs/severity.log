@@ -1,0 +1,33 @@
+INFO  10:20:30 Application started. Press Ctrl+C to shut down.
+INFO  10:20:30 Application started. Press Ctrl+C to shut down.
+INFO  10:20:30 Hosting environment: Development
+INFO  10:20:30 Hosting environment: Development
+INFO  10:20:30 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  10:20:30 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  10:20:31  Http GET Request From: AuditSeverityController
+INFO  10:21:21  Http POST Request From: AuditSeverityController
+INFO  10:21:21  SeverityResponse Method of SeverityProvider Called 
+INFO  10:21:21  Response Method of SeverityRepo Called 
+INFO  10:21:32  Http POST Request From: AuditSeverityController
+INFO  10:21:32  SeverityResponse Method of SeverityProvider Called 
+INFO  10:21:32  Response Method of SeverityRepo Called 
+INFO  10:23:21 Application started. Press Ctrl+C to shut down.
+INFO  10:23:21 Application started. Press Ctrl+C to shut down.
+INFO  10:23:21 Hosting environment: Development
+INFO  10:23:21 Hosting environment: Development
+INFO  10:23:21 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditSeverityModule
+INFO  10:23:21 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditSeverityModule
+INFO  10:23:21  Http GET Request From: AuditSeverityController
+INFO  10:26:36  Http POST Request From: AuditSeverityController
+INFO  10:26:36  SeverityResponse Method of SeverityProvider Called 
+INFO  10:26:36  Response Method of SeverityRepo Called 
+INFO  12:53:37 Application started. Press Ctrl+C to shut down.
+INFO  12:53:37 Application started. Press Ctrl+C to shut down.
+INFO  12:53:37 Hosting environment: Development
+INFO  12:53:37 Hosting environment: Development
+INFO  12:53:37 Content root path: C:\Users\suvin\Downloads\aaaaa\AuditManagementSystem-master\AuditSeverityModule
+INFO  12:53:37 Content root path: C:\Users\suvin\Downloads\aaaaa\AuditManagementSystem-master\AuditSeverityModule
+INFO  12:53:37  Http GET Request From: AuditSeverityController
+INFO  12:54:55  Http POST Request From: AuditSeverityController
+INFO  12:54:55  SeverityResponse Method of SeverityProvider Called 
+INFO  12:54:55  Response Method of SeverityRepo Called 
